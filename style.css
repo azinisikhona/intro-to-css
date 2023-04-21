@@ -1,0 +1,13 @@
+body {
+    background-image:url('/images/deelj1l-2b51f3ce-0b3d-42e2-afee-6d6d3953a2d7.gif');
+    background-size: cover;
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
